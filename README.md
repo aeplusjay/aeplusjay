@@ -1,6 +1,13 @@
 # 🚀 Welcome to My World of Code! 🤖
 
-Hey there, fellow code wranglers! I'm Aryan, the one and only developer extraordinaire. 🧙‍♂️
+<h1 align="center">🚀 Hey there, I'm [Aryan]! 🤖</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding Wizard">
+</p>
+
+<p align="center">🎮 Gamer by night, Debugger by day, and coding sorcerer all the time!</p>
+
 
 ![Coding Wizard](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
@@ -19,23 +26,30 @@ Hey there, fellow code wranglers! I'm Aryan, the one and only developer extraord
 - 🕶️ Debugging with X-ray vision
 - 🎤 Public Speaking: "Hello, World!"
 
-## 🔧 My Tech Toolbox
+## 🧰 My Magical Toolbox
 
-[![Python](https://img.shields.io/badge/Python-Lover-blue)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Ninja-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![CSS](https://img.shields.io/badge/CSS-Magician-pink)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-Fanboy-blue)](https://reactjs.org/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-Addict-green)](https://code.visualstudio.com/)
+<p align="center">
+  <img src="https://media.giphy.com/media/1Zf1NFWtkzqBE/giphy.gif" alt="Magical Toolbox">
+</p>
 
-## 📬 Get in Touch
+- ✨ Wand of C++
+- 🧙‍♂️ JavaScript Staff
+- 🪄 CSS Enchantments
+- 🧬 React Elixir
+- 🔮 VS Code Crystal Ball
 
-- 📧 Email me at aeplusjay@proton.me
-- 💼 Check out my LinkedIn profile (https://www.linkedin.com/in/aeplusjay)
+## 📬 Connect with the Wizard
 
-## 🌈 Fun Fact
+- 🦉 Owl Mail: aeplusjay@proton.me
+- 🌟 Seek my wisdom on [LinkedIn](https://www.linkedin.com/in/aeplusjay)
 
-![Dancing Coder](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
+## 🪄 Fun Incantation 🌈
 
-I once wrote a program so efficient, it played hide and seek with itself and won every time! 😂
+<p align="center">
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="Dancing Coder">
+</p>
 
-Let's build the future, one line of code at a time. Happy coding, fellow humans! 🚀
+In a land not so far away, I once wrote a program so efficient that it played hide and seek with itself and won every time! 🙈✨
+
+Let's conjure up some digital magic and craft a brighter future, one spellbinding line of code at a time! 🌟🧙‍♂️
+
