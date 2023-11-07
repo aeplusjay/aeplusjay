@@ -9,7 +9,7 @@
 <p align="center">🎮 Gamer by night, Debugger by day, and coding sorcerer all the time!</p>
 
 
-![Coding Wizard](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
+![Coding Wizard]
 
 ## 🤖 About Me
 
