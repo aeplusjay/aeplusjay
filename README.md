@@ -1,54 +1,58 @@
-
-
-<h1 align="center">🚀 Hey there, I'm [Aryan]! 🤖</h1>
+<h1 align="center">🧙‍♂️ Aryan — Code Whisperer, Debug Slayer, Terminal Bard 🔥</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding Wizard">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding Wizard" width="300"/>
 </p>
 
-<p align="center">🎮 Gamer by night, Debugger by day, and coding sorcerer all the time!</p>
+<p align="center"><b>🌙 Gamer by night • 🧠 Overthinker by day • 💻 Code Conjurer 24/7</b></p>
 
+---
 
+## 🧠 Who am I?
 
-## 🤖 About Me
+- 🧪 A 4th year B.Tech CSE alchemist, synthesizing bugs into features  
+- 🎮 Once lost an online match because I was fixing a segfault mid-fight  
+- 🤕 Currently recovering from a boss fight with real-life autoimmune issues — but still respawning daily  
+- 🧘‍♂️ Working on self-upgrades, both personal and professional  
+- 🪄 I write Python that feels like sorcery and C++ that needs therapy  
 
-- 👾 Self-proclaimed Coding Wizard
-- 🎮 Gamer by night, Debugger by day
-- 🌌 Exploring the universe of code, one bug at a time
+---
 
-## 🌟 My Superpowers
+## 💼 My Spellbook of Skills
 
-![Super Coding Powers](https://media.giphy.com/media/12BYUePgtn7sis/giphy.gif)
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align="right" />
 
-- 💻 Master of the `Hello World` spell
-- 🚀 Launching rockets with `git push`
-- 🕶️ Debugging with X-ray vision
-- 🎤 Public Speaking: "Hello, World!"
+### 👨‍💻 Languages:
+`Python` `C++` `JavaScript` `HTML` `CSS`
 
-## 🧰 My Magical Toolbox
+### ⚒️ Tools & Frameworks:
+`React` `Node.js` `Express.js` `Flask` `Material UI`  
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1Zf1NFWtkzqBE/giphy.gif" alt="Magical Toolbox">
-</p>
+### 🧙 Projects You Might Summon:
+- **Adaptive ML Keyboard** — Learns from your typos, grows your keys (literally)  
+- **OneInbox** — Unified Messaging Dashboard, like a sorting hat for your notifications  
+- **System Design (for Mortals)** — Because we all started with zero clue  
+- **Sentiment Analysis with NLP** — A machine that understands sarcasm... kinda  
 
-- ✨ Wand of C++
-- 🧙‍♂️ JavaScript Staff
-- 🪄 CSS Enchantments
-- 🧬 React Elixir
-- 🔮 VS Code Crystal Ball
+---
 
-## 📬 Connect with the Wizard
+## 🔍 Debug Mode: Always ON
 
-- 🦉 Owl Mail: aeplusjay@proton.me
-- 🌟 Seek my wisdom on [LinkedIn](https://www.linkedin.com/in/aeplusjay)
+- 🐛 Once debugged a linked list while contemplating free will  
+- 🔧 Ctrl+C, Ctrl+V, and Ctrl+Z are my chakra points  
+- 📟 Favorite hobby? Segfaults and existential dread  
 
-## 🪄 Fun Incantation 🌈
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" alt="Dancing Coder">
-</p>
+## ⚡ Terminal Commands That Describe Me
 
-In a land not so far away, I once wrote a program so efficient that it played hide and seek with itself and won every time! 🙈✨
+```bash
+> whoami
+Aryan — currently rebooting confidence, compiling skills
 
-Let's conjure up some digital magic and craft a brighter future, one spellbinding line of code at a time! 🌟🧙‍♂️
+> uptime
+21 years (4 drops, several retries, still going 💪)
 
+> top -u aryan
+90% overthinking | 10% caffeine | 100% trying
