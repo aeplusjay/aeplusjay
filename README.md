@@ -10,7 +10,7 @@
 
 ## 🧠 Who am I?
 
-- 🧪 A 4th year B.Tech CSE alchemist, synthesizing bugs into features  
+- 🧪 A 3rd year B.Tech CSE alchemist, synthesizing bugs into features  
 - 🎮 Once lost an online match because I was fixing a segfault mid-fight  
 - 🤕 Currently recovering from a boss fight with real-life autoimmune issues — but still respawning daily  
 - 🧘‍♂️ Working on self-upgrades, both personal and professional  
